@@ -43,15 +43,15 @@
 ### 📈 GitHub Stats
 <div style="display: inline-flex; gap: 5px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gab-2005&theme=algolia&show_icons=true&icon_color=30A3DC&title_color=4B9CD3&text_color=FFF&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-2005&layout=compact&theme=algolia)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel2005dev&theme=algolia&show_icons=true&icon_color=30A3DC&title_color=4B9CD3&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2005dev&layout=compact&theme=algolia)
 </div>
 
 
 ---
 
 ### 📊 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gab-2005&bg_color=0d1117&color=00bfbf&line=15e5a6&point=07e9a5&area=true&hide_border=true)](https://github.com/gab-2005)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel2005dev&bg_color=0d1117&color=00bfbf&line=15e5a6&point=07e9a5&area=true&hide_border=true)](https://github.com/Gabriel2005dev)
 
 ---
 
